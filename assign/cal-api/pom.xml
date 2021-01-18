@@ -1,0 +1,13 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.knoldus.app</groupId>
+        <artifactId>assign</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <groupId>com.knoldus.cal-api</groupId>
+    <name>cal-api</name>
+    <packaging>jar</packaging>
+    <artifactId>cal-api</artifactId>
+    <version>1.0-SNAPSHOT</version>
+</project>
